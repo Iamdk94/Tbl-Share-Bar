@@ -6,3 +6,5 @@ Check Here Popular Tutorials -
 [Best Adsense alternative](https://www.thebloglogic.com/best-adsense-alternative/)
 
 [Best WordPress security Plugins](https://www.thebloglogic.com/best-wordpress-security-plugin/)
+
+Here our Full Details [How to add Google analytics and Share bar in Google AMP pages] (https://www.thebloglogic.com/google-analytics-social-share-wordpress-amp/)
